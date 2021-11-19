@@ -1,0 +1,15 @@
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/gongkai/guihua/wngh/ybzxgh/202108/W020210802356422088628.png | 文件路径: temp/img/http://www.beijing.gov.cn/gongkai/guihua/wngh/ybzxgh/202108/W020210802356422088628.png | 时间: 2021-10-28 14:56:57
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/gongkai/guihua/wngh/ybzxgh/202108/W020210802336814356064.png | 文件路径: temp/img/http://www.beijing.gov.cn/gongkai/guihua/wngh/ybzxgh/202108/W020210802336814356064.png | 时间: 2021-10-28 14:58:22
+异常类型: 文档下载错误 | url地址: http://www.beijing.gov.cn/gongkai/guihua/wngh/ybzxgh/202108/W020210924339672619128.pdf | 文件路径: ./规划/市级一般专项规划/北京市知识产权局关于印发《北京市“十四五”时期知识产权发展规划》的通知/公报PDF | 时间: 2021-10-28 15:00:17
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/gongkai/guihua/wngh/ybzxgh/202108/W020210809539937119438.png | 文件路径: temp/img/http://www.beijing.gov.cn/gongkai/guihua/wngh/ybzxgh/202108/W020210809539937119438.png | 时间: 2021-10-28 15:00:51
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/images/img_bjfb_ch_20190924.jpg | 文件路径: temp/img/http://www.beijing.gov.cn/images/img_bjfb_ch_20190924.jpg | 时间: 2021-10-28 15:01:33
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/images/logo_ch_20191009.png | 文件路径: temp/img/http://www.beijing.gov.cn/images/logo_ch_20191009.png | 时间: 2021-10-28 15:01:57
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/ywdt/images/icon_yn_20180730.png | 文件路径: temp/img/http://www.beijing.gov.cn/ywdt/images/icon_yn_20180730.png | 时间: 2021-10-28 15:02:08
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/images/ico_dzjg_ch_20190924.png | 文件路径: temp/img/http://www.beijing.gov.cn/images/ico_dzjg_ch_20190924.png | 时间: 2021-10-28 15:02:13
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/ywdt/images/icon_yn_20180730.png | 文件路径: temp/img/http://www.beijing.gov.cn/ywdt/images/icon_yn_20180730.png | 时间: 2021-10-28 15:02:54
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/images/shouchuanglogo_ch_20190924.png | 文件路径: temp/img/http://www.beijing.gov.cn/images/shouchuanglogo_ch_20190924.png | 时间: 2021-10-28 15:03:14
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/ywdt/images/icon_yn_20180730.png | 文件路径: temp/img/http://www.beijing.gov.cn/ywdt/images/icon_yn_20180730.png | 时间: 2021-10-28 15:03:41
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/ywdt/images/icon_yn_20180730.png | 文件路径: temp/img/http://www.beijing.gov.cn/ywdt/images/icon_yn_20180730.png | 时间: 2021-10-28 15:03:46
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/ywdt/images/icon_yn_20180730.png | 文件路径: temp/img/http://www.beijing.gov.cn/ywdt/images/icon_yn_20180730.png | 时间: 2021-10-28 15:04:09
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/images/logo_ch_20191009.png | 文件路径: temp/img/http://www.beijing.gov.cn/images/logo_ch_20191009.png | 时间: 2021-10-28 15:05:11
+异常类型: 图片下载错误 | url地址: http://www.beijing.gov.cn/ywdt/images/icon_yn_20180730.png | 文件路径: temp/img/http://www.beijing.gov.cn/ywdt/images/icon_yn_20180730.png | 时间: 2021-10-28 15:05:19
